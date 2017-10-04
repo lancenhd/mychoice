@@ -1,0 +1,35 @@
+.ui.borderless.topmenu.menu{
+  background-color:white;
+  box-shadow:none;
+  border:none;
+}
+
+.footer-background{
+  background-color:#292929;
+  height:200px;
+  margin-bottom:100px;
+}
+
+.ui.borderless.downmenu.menu{
+  background-color:#F2F2F2;
+  box-shadow:none;
+  border:none;
+}
+
+
+input[type=text] {
+  width: 130px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  text-align:center;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+  width: 100%;
+}
+
+.ui.search{
+  margin:0 auto;
+}
+

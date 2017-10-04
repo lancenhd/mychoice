@@ -1,2 +1,1 @@
-# mychoice
-copy a website
+# islandsnow
